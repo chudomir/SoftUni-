@@ -1,8 +1,3 @@
-# TODO before start the app, please run
-# pip install tkcalendar
-# in your terminal with activated venv for the project
-
-
 from tkinter import messagebox
 
 from tkcalendar import DateEntry
